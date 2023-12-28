@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Mohammed Abdelnaby\source\repos\Snake\Snake.h(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohammed Abdelnaby\source\repos\Snake\Main.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mohammed Abdelnaby\source\repos\Snake\Main.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> C:\Users\Mohammed Abdelnaby\source\repos\Snake\Debug\Snake.exe
